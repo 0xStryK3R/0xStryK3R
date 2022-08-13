@@ -7,7 +7,10 @@
 [![Twitter Badge](http://img.shields.io/badge/-@0xStryK3R-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/0xStryK3R)](https://twitter.com/0xStryK3R)
 [![Gmail Badge](https://img.shields.io/badge/-arupbhowmick007-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:arupbhowmick007@gmail.com)](mailto:arupbhowmick007@gmail.com) <br>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R)  <br>
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R) 
+[![wakatime](https://wakatime.com/badge/user/b77600ce-fa6c-4fd4-8e13-bd0c94578ebc.svg)](https://wakatime.com/@b77600ce-fa6c-4fd4-8e13-bd0c94578ebc)
+
+<br>
 
 **`Languages & Tools:`** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -16,8 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true&theme=algolia)
 
 <!--
 **0xStryK3R/0xStryK3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
