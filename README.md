@@ -10,16 +10,26 @@
 [![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R)](https://visitor-badge.glitch.me/#docs)
 [![wakatime](https://wakatime.com/badge/user/b77600ce-fa6c-4fd4-8e13-bd0c94578ebc.svg)](https://wakatime.com/@b77600ce-fa6c-4fd4-8e13-bd0c94578ebc)
 
-<br>
 
-**`Languages & Tools:`** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+**`Languages & Tools:`** 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height="16">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height="16">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height="16">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height="16">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' height="16">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height="16">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' height="16">
+
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>-->
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=dark)
+<!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=dark) -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true&theme=dark" />
 
 <!--
 **0xStryK3R/0xStryK3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
