@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [_Arup Bhowmick!_](https://bit.ly/arup-resume) 
 
-|`Python Developer` 🐍 | `DSA & System-Design` enthusiast :neckbeard:| `Open Source Developer` 🚀|
+`Python Developer` 🐍 | `DSA` & `System-Design` :neckbeard:| `Open Source Developer` 🚀
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-arupbhowmick-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arupbhowmick/)](https://www.linkedin.com/in/arupbhowmick/)
