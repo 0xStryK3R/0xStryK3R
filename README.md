@@ -19,9 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=dark)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=dark)
 
 <!--
 **0xStryK3R/0xStryK3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
