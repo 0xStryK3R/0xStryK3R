@@ -26,8 +26,8 @@
 <h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
 <br>
 <div align="center">
-    <img alt="Python" height ="36px" src="https://user-images.githubusercontent.com/29790345/184531112-30bc333e-168e-49cb-b933-1acd60533c77.svg">
-    <img alt="Java" height ="36px" src="https://user-images.githubusercontent.com/29790345/184531135-26f435db-c1c2-4123-b133-91f6a0f94f5a.svg">
+    <a href="https://github.com/0xStryK3R?tab=repositories&language=python" target="_blank"><img alt="Python" height ="36px" src="https://user-images.githubusercontent.com/29790345/184531112-30bc333e-168e-49cb-b933-1acd60533c77.svg"></a>
+    <a href="https://github.com/0xStryK3R?tab=repositories&language=java" target="_blank"><img alt="Java" height ="36px" src="https://user-images.githubusercontent.com/29790345/184531135-26f435db-c1c2-4123-b133-91f6a0f94f5a.svg"></a>
     <img alt="Django" height ="36px" src="https://user-images.githubusercontent.com/29790345/184531032-769d99e6-595b-4653-9ec2-c7696b51eb88.png">
     <img alt="Flask" height ="36px" src="https://user-images.githubusercontent.com/29790345/184531553-ecfbb132-b46e-409c-b77b-0504e4b1e452.png">
     <img alt="Spring" height ="36px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'>
@@ -53,9 +53,13 @@
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&count_private=true&theme=tokyonight" />
 <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xStryK3R&theme=tokyonight" />
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=tokyonight" />
-<img width="40%" height="68%" src="https://activity-graph.herokuapp.com/graph?username=0xStryK3R&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
 </p>
+<details align="center">
+    <summary> <code>Click for More Stats</code> </summary>
+    <br>
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=tokyonight" />
+    <img width="40%" height="68%" src="https://activity-graph.herokuapp.com/graph?username=0xStryK3R&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
+</details>
 
 <h2 align="center">🤝 Support</h2>
 
@@ -75,4 +79,10 @@
 
 <!-- Future-Widgets
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xStryK3R&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+<!-- Fix-Needed
+    <a href='https://github.com/0xStryK3R/github-stats'>
+    ![Stats Overview](https://raw.githubusercontent.com/0xStryK3R/github-stats/master/generated/overview.svg)
+    ![Most Used Languages](https://raw.githubusercontent.com/0xStryK3R/github-stats/master/generated/languages.svg)
+    </a>
 -->
