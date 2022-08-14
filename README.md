@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [_Arup Bhowmick!_](https://bit.ly/arup-resume) 
+## Hey there, I'm [_Arup Bhowmick!_](https://bit.ly/arup-resume) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 `Python-Developer` 🐍 | `DSA` & `System-Design` :neckbeard:| `Open-Source-Developer` 🚀
 
@@ -10,8 +10,9 @@
 [![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R)](https://visitor-badge.glitch.me/#docs)
 [![wakatime](https://wakatime.com/badge/user/b77600ce-fa6c-4fd4-8e13-bd0c94578ebc.svg)](https://wakatime.com/@b77600ce-fa6c-4fd4-8e13-bd0c94578ebc)
 
+## ⚡ Technologies
 
-**`Languages & Tools:`**<br>
+**`Languages & Tools:`** 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height="24">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height="24">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height="24">
@@ -28,6 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>-->
 
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=dark) -->
+## 📈 Statistics
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&count_private=true&theme=tokyonight" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xStryK3R&theme=tokyonight" />
