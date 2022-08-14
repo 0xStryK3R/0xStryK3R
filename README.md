@@ -1,18 +1,20 @@
-## Hey there, I'm [_Arup Bhowmick!_](https://bit.ly/arup-resume) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<div align="center">
+   <h1>Hey there, I'm <a href="https://bit.ly/arup-resume">Arup</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-`Python-Developer` 🐍 | `DSA` & `System-Design` :neckbeard:| `Open-Source-Developer` 🚀
+<p align='center'>
+<a href="https://www.linkedin.com/in/arupbhowmick/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/0xStryK3R"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:arupbhowmick007@email.com"><img height="30" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Arup Bhowmick | 💻 Python-Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-arupbhowmick-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arupbhowmick/)](https://www.linkedin.com/in/arupbhowmick/)
-[![Twitter Badge](http://img.shields.io/badge/-@0xStryK3R-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/0xStryK3R)](https://twitter.com/0xStryK3R)
-[![Gmail Badge](https://img.shields.io/badge/-arupbhowmick007-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:arupbhowmick007@gmail.com)](mailto:arupbhowmick007@gmail.com) <br>
+<h2 align="center">⚡ Technologies</h2>
 
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R)](https://visitor-badge.glitch.me/#docs)
-[![wakatime](https://wakatime.com/badge/user/b77600ce-fa6c-4fd4-8e13-bd0c94578ebc.svg)](https://wakatime.com/@b77600ce-fa6c-4fd4-8e13-bd0c94578ebc)
-
-## ⚡ Technologies
-
-**`🔨 Languages & Tools:`** 
+**`🔨 Languages & Tools:`**
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height="24">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height="24">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height="24">
@@ -21,34 +23,27 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height="24">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' height="24">
 
-## 📈 Statistics
+<h2 align="center"> 📈 Statistics </h2>
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&count_private=true&theme=tokyonight" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xStryK3R&theme=tokyonight" />
 </p>
 
-[![Profile last updated](https://img.shields.io/github/last-commit/0xStryK3R/0xStryK3R/main?label=Last%20updated&style=flat)](https://github.com/0xStryK3R/0xStrK3R/commits)
+<h2 align="center">🤝 Support</h2>
 
-<!-- Fix-Needed
-<a href='https://github.com/0xStryK3R/github-stats'>
-![Stats Overview](https://raw.githubusercontent.com/0xStryK3R/github-stats/master/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/0xStryK3R/github-stats/master/generated/languages.svg)
-</a>
--->
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
-<!-- Future-Widgets
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xStryK3R&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--->
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+<p align="center">
+<a href="https://visitor-badge.glitch.me/#docs"><img height="30" src="https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R"></a>&nbsp;&nbsp;
+<a href="https://github.com/0xStryK3R/0xStrK3R/commitsR"><img height="30" src="https://img.shields.io/github/last-commit/0xStryK3R/0xStryK3R/main?label=Last%20updated&style=flat"></a>&nbsp;&nbsp;
+<a href="https://wakatime.com/@b77600ce-fa6c-4fd4-8e13-bd0c94578ebc"><img height="30" src="https://wakatime.com/badge/user/b77600ce-fa6c-4fd4-8e13-bd0c94578ebc.svg"></a>&nbsp;&nbsp; 
+</p>
 
-<!-- Disabled-Widgets
-## Languages & Tools 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
 
-## Guthub Stats
- [![Github Stats](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&hide=issues&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=dark) 
--->
+<p align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
