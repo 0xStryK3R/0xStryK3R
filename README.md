@@ -1,14 +1,15 @@
 <h1 align="center"> <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Arup+Bhowmick!;Nice+to+meet+you!&center=true&size=30&center=true&size=30&font=DejaVu+Sans+Mono&color=0E5EF7&pause=100">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Arup+Bhowmick!;Nice+to+meet+you!&center=true&size=30&center=true&size=30&font=DejaVu+Sans+Mono&color=0E5EF7&pause=100">
 </a></h1>
-
-
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/arupbhowmick/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/0xStryK3R"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:arupbhowmick007@email.com"><img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true"></a>&nbsp;&nbsp;
- </p>
+<a href="https://telegram.me/StryK3R_1"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537214-577d5f57-2557-4fb7-b0ed-f085174dd9c4.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/550744711405502474"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537680-90e29866-4295-4bfc-8808-5e19882c5069.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+
 
 <div align="center">
  
