@@ -33,9 +33,9 @@
 
 <h2 align="center"> 📈 Statistics </h2>
 <p align="center">
-<img width="30%" src="https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&count_private=true&theme=tokyonight" />
-<img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xStryK3R&theme=tokyonight" />
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=tokyonight" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&count_private=true&theme=tokyonight" />
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xStryK3R&theme=tokyonight" />
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=tokyonight" />
 </p>
 
 <h2 align="center">🤝 Support</h2>
