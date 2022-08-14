@@ -36,11 +36,13 @@
     <img alt="MySQL" height ="36px" src="https://user-images.githubusercontent.com/29790345/184531617-688b756c-250e-4e7a-89d6-4ec2ea53b305.svg">
     <img alt="MongoDB" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img alt="Redis" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+    <img alt="Oracle" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div>
 <br>
 <div align="center">
     <img alt="Github" height ="32px" src="https://user-images.githubusercontent.com/29790345/184531173-138b2ba5-e2ca-42f1-ba2b-694034284811.svg">
     <img alt="Git" height ="36px" src="https://user-images.githubusercontent.com/29790345/184531200-c7e47787-f872-4131-8644-e5574a2963dc.svg">
+    <img alt="Linux" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img alt="Bash" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
     <img alt="Docker" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img alt="JSON" height ="36px" src="https://user-images.githubusercontent.com/29790345/184531621-b8473d55-c804-435c-95ae-305efb6020d5.svg">
@@ -66,7 +68,14 @@
 <div align="center">
 <p>🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 <p>💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<details align="center">
+    <summary><code>OR</code></summary>
+    <br>
+    <a href="https://www.buymeacoffee.com/0xStryK3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="auto"></a>
+</details>
+ </p>
 <p>Made with ❤️ from India</p>
+    
 </div>
 
 
