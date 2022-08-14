@@ -36,7 +36,7 @@
 </p>
 
 <!-- future widgets
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xStryK3R&theme=onedark)](https://github.com/0xStryK3R/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xStryK3R&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
 [![Profile last updated](https://img.shields.io/github/last-commit/0xStryK3R/0xStryK3R/main?label=Last%20updated&style=flat)](https://github.com/0xStryK3R/0xStrK3R/commits)
