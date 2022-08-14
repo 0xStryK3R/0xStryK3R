@@ -11,14 +11,14 @@
 [![wakatime](https://wakatime.com/badge/user/b77600ce-fa6c-4fd4-8e13-bd0c94578ebc.svg)](https://wakatime.com/@b77600ce-fa6c-4fd4-8e13-bd0c94578ebc)
 
 
-**`Languages & Tools:`** 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height="16">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height="16">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height="16">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height="16">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' height="16">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height="16">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' height="16">
+**`Languages & Tools:`**<br>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height="24">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height="24">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height="24">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height="24">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' height="24">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height="24">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' height="24">
 
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
