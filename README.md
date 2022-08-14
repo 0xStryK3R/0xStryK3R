@@ -54,7 +54,7 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=0xStryK3R&show_icons=true&count_private=true&theme=tokyonight" />
 <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xStryK3R&theme=tokyonight" />
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xStryK3R&layout=compact&theme=tokyonight" />
-<img width="40%" height="68%" src="https://activity-graph.herokuapp.com/graph?username=0xStryK3R&custom_title=Contribution+Graph&theme=react-dark&bg_color=20232a&hide_border=true&radius=6" />
+<img width="40%" height="68%" src="https://activity-graph.herokuapp.com/graph?username=0xStryK3R&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
 </p>
 
 <h2 align="center">🤝 Support</h2>
