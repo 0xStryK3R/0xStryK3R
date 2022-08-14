@@ -29,11 +29,16 @@
 
 [![Profile last updated](https://img.shields.io/github/last-commit/0xStryK3R/0xStryK3R/main?label=Last%20updated&style=flat)](https://github.com/0xStryK3R/0xStrK3R/commits)
 
+<!-- Fix-Needed
+<a href='https://github.com/0xStryK3R/github-stats'>
+![Stats Overview](https://raw.githubusercontent.com/0xStryK3R/github-stats/master/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/0xStryK3R/github-stats/master/generated/languages.svg)
+</a>
+-->
 
 <!-- Future-Widgets
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xStryK3R&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-
 
 <!-- Disabled-Widgets
 ## Languages & Tools 
