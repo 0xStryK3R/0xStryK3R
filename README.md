@@ -8,15 +8,16 @@
 <a href="mailto:arupbhowmick007@email.com"><img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://telegram.me/StryK3R_1"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537214-577d5f57-2557-4fb7-b0ed-f085174dd9c4.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/550744711405502474"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537680-90e29866-4295-4bfc-8808-5e19882c5069.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://bit.ly/arup-resume"><img height="33" src="https://user-images.githubusercontent.com/29790345/184594146-05f92c26-6c18-4379-8ef7-45ffee388d25.png?raw=true"></a>&nbsp;&nbsp;
+
 </p>
 
-
 <div align="center">
- 
+
 `Python-Developer` 🐍 | `DSA` 💻 | `System-Design` :neckbeard: | `Open-Source-Developer` 🚀
  
 <p>
-<a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R"></a>&nbsp;&nbsp;
+<a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R&right_color=orange"></a>&nbsp;&nbsp;
 <a href="https://wakatime.com/@b77600ce-fa6c-4fd4-8e13-bd0c94578ebc"><img src="https://wakatime.com/badge/user/b77600ce-fa6c-4fd4-8e13-bd0c94578ebc.svg"></a>&nbsp;&nbsp; 
 </p>
  
