@@ -9,8 +9,10 @@
 <a href="https://telegram.me/StryK3R_1"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537214-577d5f57-2557-4fb7-b0ed-f085174dd9c4.png?raw=true"></a>&nbsp;&nbsp;
 <!--<a href="https://discordapp.com/users/550744711405502474"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537680-90e29866-4295-4bfc-8808-5e19882c5069.png?raw=true"></a>&nbsp;&nbsp;-->
 <a href="https://discordapp.com/users/550744711405502474"><img height="33" src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://bit.ly/arup-resume"><img height="33" src="https://user-images.githubusercontent.com/29790345/184598158-0db70aec-4b35-49df-9f91-24b4aaa3fa11.png?raw=true"></a>&nbsp;&nbsp;
+<!--<a href="https://bit.ly/arup-resume"><img height="33" src="https://user-images.githubusercontent.com/29790345/184598158-0db70aec-4b35-49df-9f91-24b4aaa3fa11.png?raw=true"></a>&nbsp;&nbsp;-->
+<a href="https://bit.ly/arup-resume"><img height="33" src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true"></a>&nbsp;&nbsp;
 </p>
+
 
 <div align="center">
 
