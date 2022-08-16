@@ -1,5 +1,5 @@
 <h1 align="center"> <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Arup+Bhowmick!;Nice+to+meet+you!&center=true&size=30&center=true&size=30&font=DejaVu+Sans+Mono&color=0E5EF7&pause=100">
+<img width="60%" src="https://readme-typing-svg.herokuapp.com?lines=<Hello,+There!+👋>;<This+is+Arup+Bhowmick!>;<Nice+to+meet+you!>&center=true&size=30&center=true&size=30&font=DejaVu+Sans+Mono&color=bf91f3&background=1a1b27&vCenter=true&pause=100">
 </a></h1>
 
 <p align='center'>
