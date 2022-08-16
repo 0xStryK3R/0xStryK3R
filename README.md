@@ -1,6 +1,10 @@
-<h1 align="center"> <a href="https://git.io/typing-svg">
-<img width="60%" src="https://readme-typing-svg.herokuapp.com?lines=<Hello,+There!+👋>;<This+is+Arup+Bhowmick!>;<Nice+to+meet+you!>&center=true&size=30&center=true&size=30&font=DejaVu+Sans+Mono&color=bf91f3&background=1a1b27&vCenter=true&pause=100">
-</a></h1>
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
+<p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
+<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Arup+Bhowmick!>;<Nice+to+meet+you!>">
+</a></hp>
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/arupbhowmick/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -85,7 +89,7 @@
 <h2 align='center'>⚡️<i>Keep Coding!</i>⚡️</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" alt="Github Stats" />
 </p>
 
 
