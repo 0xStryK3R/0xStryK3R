@@ -4,7 +4,7 @@
 </a></hp>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/arupbhowmick/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
