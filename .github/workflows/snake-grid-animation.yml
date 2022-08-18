@@ -33,7 +33,7 @@ jobs:
       - name: push snake-grid-animation svgs
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
-          target_branch: sanke-grid-animations
+          target_branch: snake-grid-animations
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
