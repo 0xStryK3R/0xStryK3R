@@ -70,6 +70,16 @@
     <img width="40%" height="68%" src="https://activity-graph.herokuapp.com/graph?username=0xStryK3R&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
 </details>
 
+<details align="center">
+    <summary> <code>And some work in progress (Click at your own risk😜</code> </summary>
+    <!--📏LINE-->
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+    <img width="30%" height="50%" src="https://leetcode.card.workers.dev/0xStryK3R?theme=unicorn&font=source_code_pro&extension=activity" /> 
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=0xStryK3R&theme=onedark" />
+</details>
+
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
