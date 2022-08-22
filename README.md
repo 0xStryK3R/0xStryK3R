@@ -23,14 +23,10 @@
 `Python-Developer` 🐍 | `DSA` 💻 | `System-Design` :neckbeard: | `Open-Source-Developer` 🚀
  
 <p>
-<a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R&right_color=orange"></a>&nbsp;&nbsp;
-<a href="https://wakatime.com/@b77600ce-fa6c-4fd4-8e13-bd0c94578ebc"><img src="https://wakatime.com/badge/user/b77600ce-fa6c-4fd4-8e13-bd0c94578ebc.svg"></a>&nbsp;&nbsp; 
-</p>
-
-[![Snake-Grid-Animation](https://github.com/0xStryK3R/0xStryK3R/actions/workflows/snake-grid-animation.yml/badge.svg)](https://github.com/0xStryK3R/0xStryK3R/actions/workflows/snake-grid-animation.yml)
- 
-<p align="center">
-<a href="https://github.com/0xStryK3R/0xStrK3R/commitsR"><img src="https://img.shields.io/github/last-commit/0xStryK3R/0xStryK3R/main?label=Last%20updated&style=flat"></a>&nbsp;&nbsp;
+<a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.0xStryK3R&right_color=orange"></a>&nbsp;
+<a href="https://wakatime.com/@b77600ce-fa6c-4fd4-8e13-bd0c94578ebc"><img src="https://wakatime.com/badge/user/b77600ce-fa6c-4fd4-8e13-bd0c94578ebc.svg"></a>&nbsp; 
+<a href="https://github.com/0xStryK3R/0xStrK3R/commitsR"><img src="https://img.shields.io/github/last-commit/0xStryK3R/0xStryK3R/main?label=Last%20updated&style=flat"></a>&nbsp;
+<a href="https://github.com/0xStryK3R/0xStryK3R/actions/workflows/snake-grid-animation.yml"><img src="https://github.com/0xStryK3R/0xStryK3R/actions/workflows/snake-grid-animation.yml/badge.svg">
 </div>
 
 <h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
