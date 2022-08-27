@@ -42,9 +42,11 @@
     <img alt="MongoDB" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img alt="Redis" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
     <img alt="Oracle" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+<!--
 </div>
 <br>
 <div align="center">
+-->
     <a href="https://github.com/0xStryK3R?tab=repositories" target="_blank"><img alt="Github" height ="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
     <img alt="Git" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img alt="Linux" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -55,7 +57,11 @@
 </div>
 <br>
 
-📊 **this week i spent my time on:**
+<div align="center">
+
+
+<h4 align="center"> 📊 **This week i spent my time on:** </h4>
+<div width="50%">
 <!--START_SECTION:waka-->
 
 ```text
@@ -68,6 +74,10 @@ Docker       21 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</div>
+</div>
+<br>
+
 
 <h2 align="center"> 📈 Statistics </h2>
 <p align="center">
