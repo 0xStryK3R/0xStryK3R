@@ -114,12 +114,13 @@ Docker       21 mins         ▒░░░░░░░░░░░░░░░░
 <h2 align="center">🤝 Support</h2>
 
 <div align="center">
-<p>🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<p>💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p>🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p>💙 If you like what i do, give me some ⭐'s and share with your friends!</p>
 <details align="center">
-    <summary><code>OR</code></summary>
+    <summary><code>Or you could also 🥺👉👈 </code></summary>
     <br>
-    <a href="https://www.buymeacoffee.com/0xStryK3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="auto"></a>
+   <!--maybe consider buying me a coffee/tea 🥺👉👈-->
+    <a href="https://www.buymeacoffee.com/0xStryK3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </details>
  </p>
 <p>Made with ❤️ from India</p>
