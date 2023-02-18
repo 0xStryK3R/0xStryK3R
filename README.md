@@ -65,7 +65,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   20 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.25 %
+Other    6 mins          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.75 %
 ```
 
 <!--END_SECTION:waka-->
