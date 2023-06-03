@@ -64,7 +64,7 @@
 <div width="50%">
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
